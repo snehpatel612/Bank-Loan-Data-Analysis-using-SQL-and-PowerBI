@@ -3,7 +3,13 @@
 ## Overview
 The Bank Loan Analysis Project is a comprehensive examination of loan data to extract insights, trends, and key performance indicators (KPIs). This project leverages data analysis, SQL querying, and business intelligence tools to analyze and visualize the performance of a bank's loan portfolio. The analysis provides actionable insights into the quality of loans issued, trends in loan applications, and customer demographics.
 
-![Screenshot 2024-12-16 211422](https://github.com/user-attachments/assets/03a4e2a5-8bea-49d9-9d3f-d19e3afa9618)
+
+
+
+
+https://github.com/user-attachments/assets/8cc5dcef-b544-4bc3-8025-e38d042bcdb4
+
+
 
 
 ## Objective
